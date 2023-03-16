@@ -1,7 +1,0 @@
-FireDomain[sw=(479255,4.59431e+06,0);ne=(520843,4.64982e+06,0);t=0]
-	FireFront[id=2;domain=0;t=0]
-		FireNode[domain=0;id=4;fdepth=20;kappa=0;loc=(499073,4.61935e+06,353.981);vel=(0,0.1,0);t=0;state=init;frontId=2]
-		FireNode[domain=0;id=6;fdepth=20;kappa=0;loc=(499153,4.61919e+06,348.611);vel=(0.1,-0.1,0);t=0;state=init;frontId=2]
-		FireNode[domain=0;id=8;fdepth=20;kappa=0;loc=(498993,4.61919e+06,289.197);vel=(-0.1,-0.1,0);t=0;state=init;frontId=2]
-		FireNode[domain=0;id=10;fdepth=20;kappa=0;loc=(499020,4.61925e+06,329.548);vel=(-0.0666667,-0.0333333,0);t=0;state=init;frontId=2]
-		FireNode[domain=0;id=12;fdepth=20;kappa=0;loc=(499047,4.6193e+06,336.852);vel=(-0.0333333,0.0333333,0);t=0;state=init;frontId=2]
